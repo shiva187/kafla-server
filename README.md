@@ -1,3 +1,3 @@
 # Kafka Server 
 
-<img src = "">
+<img src = "apache-kafka-architectures.webp">
